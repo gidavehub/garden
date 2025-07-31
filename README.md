@@ -57,7 +57,7 @@ Stay tuned for our full platform launch, including:
 ## 📫 Contact
 
 Questions or feedback?  
-Email: **iykedave@gmail.com**  
+Email: **gidave01@gmail.com**  
 GitHub: [@gidavehub](https://github.com/gidavehub)
 
 ---
